@@ -1,0 +1,15 @@
+.cars{
+    background-color:darkgoldenrod;
+    width: 400px;
+}
+.users{
+    background-color:rgba(255, 0, 0, 0.932);
+    width: 500px;
+    font-size: 17px;
+    font-weight: bolder;
+    padding: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
